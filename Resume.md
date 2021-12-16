@@ -3,17 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             1342811010
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             513420814@qq.com
          </span>
          ·
          <span>
@@ -30,8 +25,8 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，电子科技大学，控制工程专业，毕业时间2022.7
-- 学士，电子科技大学，管理-电子信息工程双学位专业，毕业时间2019.6
+- 硕士，电子科技大学，控制工程专业，2019.9-2022.7
+- 学士，电子科技大学，管理-电子信息工程双学位专业，2014.09-2019.07
 - 通过了 CET4/6 英语等级考试
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
