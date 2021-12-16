@@ -25,23 +25,14 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
+ - 男，1995年12月出生
  - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- 硕士，电子科技大学，控制工程专业，毕业时间2022.7
+- 学士，电子科技大学，管理-电子信息工程双学位专业，毕业时间2019.6
 - 通过了 CET4/6 英语等级考试
-
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
-
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
-
-   负责 XXX
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -53,8 +44,8 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
+- 熟悉Java语法，多线程、集合等基础框架
+- 对JVM原理有初步的理解，包括内存模型、垃圾回收机制
 - ★★★ MySQL
 - ★★★ Redis
 - ★★☆ Spring
