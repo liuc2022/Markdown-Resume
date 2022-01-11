@@ -3,7 +3,7 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             1342811010
+             1342811012
          </span>
          ·
          <span>
@@ -16,27 +16,34 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1995年12月出生
- - 求职意向：Java 研发工程师
-
+ 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，电子科技大学，控制工程专业，2019.9-2022.7
-- 学士，电子科技大学，管理-电子信息工程双学位专业，2014.9-2019.7
-- GPA3.57，通过了 CET4/6 英语等级考试
+- 本科，电子科技大学，管理-电子信息工程双学位，2014.9-2019.7
+- GPA3.57，通过了 CET4/6 英语等级考试，学业二等奖学金，院优秀共产党员
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **基于Spring框架的电商平台**
+- **基于 SpringBoot 的在线协同办公系统**
 
-  *使用到的技术*
-
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  - 项目描述： 一款在线协同办公小程序系统，采用前后端分离架构，基于 Maven 使用 SpringBoot开发，利用 Swagger2 搭建 RESTAPI。采用 Mybatis 为持久层框架, 数据库选用 MySQL。主要功能包
+    括人脸考勤签到，GPS 坐标定位，智能疫情风险管控; 多人在线语音 + 视频会议；云文档、在线审批、费用报销、采购申请、通讯录、公告通知等常用功能。
+   
+  - 技术架构：移动端：Uni-app+Vue+JavaScript+Less+ 小程序。
+             后端：SpringBoot+SpringMVC+MyBatis+Shiro+JWT+Quartz+RabbitMQ+Docker。
+  - (1) 实现用户的注册和登录功能。
+    (2) 使用 Shiro 框架，结合 RBAC 权限模型，解决用户认证与授权问题。
+    (3) 使用 JWT 实现单点登录，并结合 AOP、ThreadLocal 和 Redis 实现 token 令牌自动续期，解决令牌过期的难题。
+    (4) 使用 Docker 部署人脸识别镜像，实现人脸识别签到功能。
+    (5) 根据签到的位置自动发送疫情风险邮件提示功能。
+    (6) 使用 RabbitMQ+MongoDB 搭建系统的消息通知模块。
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟悉Java基础，JVM，如集合，垃圾回收机制，内存模型，多线程和锁的基本原理;
-- 熟悉基本数据结构和算法; 了解常见的设计模式；
-- 熟悉Spring，SpringBoot框架，了解RabbitMq消息中间件;
-- 熟悉Mysql及InnoDB存储引擎相关原理；熟悉Redis的使用和基本原理;
-- 熟悉计算机网络，操作系统的基础知识吗; 熟悉常用的linux指令;
-- 了解产检的微服务框架SpringCloudAlibaba的基本原理;
+- 熟悉Java基础，多线程和锁的基本原理;
+- 熟悉JVM类的加载过程、方法调用、异常处理、垃圾回收机制等;
+- 熟悉常见的数据结构和算法; 
+- 熟悉Mysql数据库原理;
+- 熟悉计算机网络、操作系统;
+- 了解Spring框架IOC和Aop的思想;
