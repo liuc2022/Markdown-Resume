@@ -30,8 +30,7 @@
   - 项目描述： 一款在线协同办公小程序系统，采用前后端分离架构，基于 Maven 使用 SpringBoot开发，利用 Swagger2 搭建 RESTAPI。采用 Mybatis 为持久层框架, 数据库选用 MySQL。主要功能包
     括人脸考勤签到，GPS 坐标定位，智能疫情风险管控; 多人在线语音 + 视频会议；云文档、在线审批、费用报销、采购申请、通讯录、公告通知等常用功能。
    
-  - 技术架构：移动端：Uni-app+Vue+JavaScript+Less+ 小程序。
-             后端：SpringBoot+SpringMVC+MyBatis+Shiro+JWT+Quartz+RabbitMQ+Docker。
+  - 技术架构：移动端：Uni-app+Vue+JavaScript+Less+ 小程序。后端：SpringBoot+SpringMVC+MyBatis+Shiro+JWT+Quartz+RabbitMQ+Docker。
   - (1) 实现用户的注册和登录功能。
     (2) 使用 Shiro 框架，结合 RBAC 权限模型，解决用户认证与授权问题。
     (3) 使用 JWT 实现单点登录，并结合 AOP、ThreadLocal 和 Redis 实现 token 令牌自动续期，解决令牌过期的难题。
@@ -41,9 +40,11 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- 熟悉Java基础，多线程和锁的基本原理;
-- 熟悉JVM类的加载过程、方法调用、异常处理、垃圾回收机制等;
+- 熟悉Java基础，多线程和锁的基本原理等;
+- 熟悉JVM，如方法调用、异常处理、反射机制，垃圾回收等;
+- 熟悉JVM，如类的加载过程、方法调用、异常处理、垃圾回收机制等;
 - 熟悉常见的数据结构和算法; 
-- 熟悉Mysql数据库原理;
-- 熟悉计算机网络、操作系统;
-- 了解Spring框架IOC和Aop的思想;
+- 熟悉Mysql数据库的基本原理，如日志系统，隔离与锁机制等;
+- 熟悉计算机网络，如TCP/IP协议，HTTP协议;
+- 熟悉操作系统，进程、内存和文件相关原理。
+- 掌握Spring , SpringBoot框架的使用;
