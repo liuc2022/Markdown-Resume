@@ -20,8 +20,9 @@
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
 - 硕士，电子科技大学，控制工程专业，2019.9-2022.7
+  - GPA3.57，通过了 CET4/6 英语等级考试，学业二等奖学金，院优秀共产党员
 - 本科，电子科技大学，管理-电子信息工程双学位，2014.9-2019.7
-- GPA3.57，通过了 CET4/6 英语等级考试，学业二等奖学金，院优秀共产党员
+
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
