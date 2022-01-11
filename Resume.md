@@ -1,16 +1,8 @@
  <center>
      <h1>刘超</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             1342811012
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             513420814@qq.com
-         </span>
-     </div>
+     - 性别：男                出生年月：1995-12
+     - 联系方式：13438110102   邮箱：513420814@qq.com
+     - 籍贯：四川广安          政治面貌：共产党员    
  </center>
 
 
