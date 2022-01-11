@@ -31,7 +31,7 @@
     括人脸考勤签到，GPS 坐标定位，智能疫情风险管控; 多人在线语音 + 视频会议；云文档、在线审批、费用报销、采购申请、通讯录、公告通知等常用功能。
    
   - 技术架构：移动端：Uni-app+Vue+JavaScript+Less+ 小程序。后端：SpringBoot+SpringMVC+MyBatis+Shiro+JWT+Quartz+RabbitMQ+Docker。
-  - (1) 实现用户的注册和登录功能。
+  - 主要工作： (1) 实现用户的注册和登录功能。
     (2) 使用 Shiro 框架，结合 RBAC 权限模型，解决用户认证与授权问题。
     (3) 使用 JWT 实现单点登录，并结合 AOP、ThreadLocal 和 Redis 实现 token 令牌自动续期，解决令牌过期的难题。
     (4) 使用 Docker 部署人脸识别镜像，实现人脸识别签到功能。
