@@ -13,9 +13,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1995年12月出生
  
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
@@ -41,10 +39,13 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
+- 熟悉常见的数据结构和算法; 
 - 熟悉Java基础，如面向对象的思想，常见集合与类库;
 - 熟悉JVM，如类的加载过程、方法调用、异常处理、垃圾回收机制等;
-- 熟悉常见的数据结构和算法; 
 - 熟悉Mysql数据库的基本原理，如日志系统，隔离与锁机制等;
 - 熟悉计算机网络，如TCP/IP协议，HTTP协议;
 - 熟悉操作系统，如进程、内存和文件相关原理。
 - 掌握Spring , SpringBoot框架的使用;
+
+## <img src="assets/info-circle-solid.svg" width="30px"> 校园经历
+ - 男，1995年12月出生
