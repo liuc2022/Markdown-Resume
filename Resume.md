@@ -15,14 +15,14 @@
 
 
  
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## 教育经历
 
 - 硕士，电子科技大学，控制工程专业，2019.9-2022.7
   - GPA3.57，英语六级(459)，学业二等奖学金，院优秀共产党员
 - 本科，电子科技大学，管理-电子信息工程双学位，2014.9-2019.7
 
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+##  项目经历
 
 - **基于 SpringBoot 的在线协同办公系统**
 
@@ -37,7 +37,7 @@
     (5) 根据签到的位置自动发送疫情风险邮件提示功能。
     (6) 使用 RabbitMQ+MongoDB 搭建系统的消息通知模块。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+## 技能清单
 
 - 熟悉常见的数据结构和算法; 
 - 熟悉Java基础，如面向对象的思想，常见集合与类库;
@@ -47,5 +47,5 @@
 - 熟悉操作系统，如进程、内存和文件相关原理。
 - 掌握Spring , SpringBoot框架的使用;
 
-## <img src="assets/info-circle-solid.svg" width="30px"> 校园经历
+##  校园经历
  - 男，1995年12月出生
